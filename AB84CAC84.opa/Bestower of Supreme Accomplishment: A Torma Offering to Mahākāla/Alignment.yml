@@ -1,0 +1,19 @@
+segment_sources:
+  P3FB309B8:
+    type: origin_type
+    relation: translation
+    language: en
+  P2100884D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ff5e3f05bc024202a75170bf444fe721:
+    P3FB309B8: d1034e3f98894847b3a6ada3a94e874e
+    P2100884D: 0f74f11cff8c491b924a97012ba1d5bf
+  ac9f9efec8ed4330b290f0e503895177:
+    P3FB309B8: 004c42822453477dabe833be5b8f2b99
+    P2100884D: cfa511e34e384494b27b780105a608aa
+  1ed0c799df6b4b34bd2746541eabaf14:
+    P3FB309B8: c84470748dca47099e2cd8a6fa56782c
+    P2100884D: e8056cdf8e1c4303b4f7f3d3b017fac6
